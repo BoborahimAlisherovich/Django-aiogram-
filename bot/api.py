@@ -28,3 +28,4 @@ def create_feedback(user_id,body):
     else:
       return  "amalga oshmadi"
     
+    

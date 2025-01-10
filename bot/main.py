@@ -8,7 +8,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.filters import StateFilter
 
 
-BOT_TOKEN = "7150380677:AAHOQ-WwfPN1Xd-W4_-KOhLXJPT0aWLgh0M"
+BOT_TOKEN = "token"
 
 from aiogram.fsm.storage.memory import MemoryStorage
 
